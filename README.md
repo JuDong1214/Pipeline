@@ -8,7 +8,8 @@ Our developed pipeline (TACGVar) efficiently annotates large numbers of variants
 Paper still in progress
 
 # **Usage**
-**Step 0 Step 1: Annovar Annotaion**
+**_Step 1: Annovar Annotaion_**
+**Input**
 This part of the pipeline is used to create an ANNOVAR formatted output file so that the 3' UTR Prevalenece Script can use it as an input file. The input file we used was a SNP list for easy processing. A shortened version follows,
 ```rs1775421
 rs1775420
@@ -44,7 +45,7 @@ but the input file should be in the format of .sumstats.add.txt and looks as fol
 13 20763686 20763686 G - comments: rs1801002 (del35G), a frameshift mutation in GJB2, associated with hearing loss
 13 20797176 21105944 0 - comments: a 342kb deletion encompassing GJB6, associated with hearing loss
 ```
-# **Output**
+**Output**
 The ANNOVAR output result is as follows; [image]
 
 The
