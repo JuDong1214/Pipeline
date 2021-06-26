@@ -48,6 +48,7 @@ but the input file should be in the format of .sumstats.add.txt. An example foll
 Citation: Kai Wang, e. (2021). Prepare Input Files - ANNOVAR Documentation. Annovar.openbioinformatics.org. Retrieved 26 June 2021, from https://annovar.openbioinformatics.org/en/latest/user-guide/input/.
 
 ### **Output**
-The ANNOVAR output result is as follows; [image]
+The ANNOVAR output result is as follows;
+![PBC](https://user-images.githubusercontent.com/80075365/123524019-aca68f00-d695-11eb-96e3-8dfb2cdd8df0.png)
 
 We have generated an ANNOVAR output file for all the 31 we studied
