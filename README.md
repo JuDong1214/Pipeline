@@ -55,4 +55,6 @@ We have generated an ANNOVAR output file for all the 31 we studied
 
 ## **Step 2: 3' UTR Variant Prevalence**
 ### **Input**
-To get the number of each region (Intergenic, Intronice, 3'UTR, etc...) like in row F of the ANNOVAR annotated output files, we have generated a python script to count the number of each regions in the variants of each trait.
+To get the number of each region (Intergenic, Intronice, 3'UTR, etc...) like in row F of the ANNOVAR annotated output files, we have generated a python script to count the number of each regions in the variants of each trait. It should look like the following,
+![3' utr putty](https://user-images.githubusercontent.com/80075365/123525444-a963d100-d69e-11eb-824a-1b99c55df787.png)
+
