@@ -7,3 +7,6 @@ Our developed MIGWAS (miRNA-target gene networks enrichment on GWAS) pipeline ef
 
 # **Publication and Citation**
 Paper still in progress
+# **Usage**
+
+# **Output**
