@@ -10,3 +10,7 @@ Paper still in progress
 # **Usage**
 
 # **Output**
+The ANNOVAR output result is as follows;
+[image]
+
+The 
