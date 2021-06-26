@@ -10,7 +10,7 @@ Paper still in progress
 # **Usage**
 ## **Step 1: Annovar Annotaion**
 ### **Input**
-This part of the pipeline is used to create an ANNOVAR formatted output file so that the 3' UTR Prevalenece Script can use it as an input file. The input file we used was a SNP list for easy processing. A shortened version follows,
+This part of the pipeline is used to create an ANNOVAR formatted output file so that the 3' UTR Prevalenece Script can use it as an input file. One of the many input files we used was the PBC trait SNP list (for easy processing). A shortened version follows,
 ```rs1775421
 rs1775420
 rs1818038
@@ -27,7 +27,7 @@ rs9439605
 rs12143743
 ```
 
-but the input file should be in the format of .sumstats.add.txt and looks as follows;
+but the input file should be in the format of .sumstats.add.txt. An example follows;
 ```[kaiwang@biocluster ~/]$ cat example/ex1.avinput
 1 948921 948921 T C comments: rs15842, a SNP in 5' UTR of ISG15
 1 1404001 1404001 G T comments: rs149123833, a SNP in 3' UTR of ATAD3C
@@ -45,7 +45,9 @@ but the input file should be in the format of .sumstats.add.txt and looks as fol
 13 20763686 20763686 G - comments: rs1801002 (del35G), a frameshift mutation in GJB2, associated with hearing loss
 13 20797176 21105944 0 - comments: a 342kb deletion encompassing GJB6, associated with hearing loss
 ```
+Citation: Kai Wang, e. (2021). Prepare Input Files - ANNOVAR Documentation. Annovar.openbioinformatics.org. Retrieved 26 June 2021, from https://annovar.openbioinformatics.org/en/latest/user-guide/input/.
+
 ### **Output**
 The ANNOVAR output result is as follows; [image]
 
-The
+We have generated an ANNOVAR output file for all the 31 we studied
