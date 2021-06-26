@@ -1,5 +1,5 @@
-# Pipeline
-Our developed pipeline efficiently annotates large numbers of variants files  and helps estimate specific tissue enrichment over the association of miRNA.
+# Tool for Annotation and Classification of Genes and Variants
+Our developed pipeline (TACGVar) efficiently annotates large numbers of variants files  and helps estimate specific tissue enrichment over the association of miRNA.
 # **Overview**
 ![pasted image 0](https://user-images.githubusercontent.com/80075365/123517696-76a2e400-d670-11eb-917d-bb1560d1e560.png)
 
