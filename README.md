@@ -9,7 +9,22 @@ Paper still in progress
 
 # **Usage**
 **Step 0 Step 1: Annovar Annotaion**
-This part of the pipeline is used to create an ANNOVAR formatted output file so that the 3' UTR Prevalenece Script can use it as an input file. The input file we used was a SNP list for easy processing, SNP list
+This part of the pipeline is used to create an ANNOVAR formatted output file so that the 3' UTR Prevalenece Script can use it as an input file. The input file we used was a SNP list for easy processing. A shortened version follows,
+```rs1775421
+rs1775420
+rs1818038
+rs770685
+rs12116874
+rs707583
+rs707582
+rs770718
+rs11260662
+rs9439587
+rs9329417
+rs10157819
+rs9439605
+rs12143743
+```
 
 but the input file should be in the format of .sumstats.add.txt and looks as follows;
 
