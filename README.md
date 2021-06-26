@@ -51,10 +51,12 @@ Citation: Kai Wang, e. (2021). Prepare Input Files - ANNOVAR Documentation. Anno
 The ANNOVAR output result is as follows;
 ![PBC](https://user-images.githubusercontent.com/80075365/123524019-aca68f00-d695-11eb-96e3-8dfb2cdd8df0.png)
 
-We have generated an ANNOVAR output file for all the 31 we studied
-
 ## **Step 2: 3' UTR Variant Prevalence**
 ### **Input**
-To get the number of each region (Intergenic, Intronice, 3'UTR, etc...) like in row F of the ANNOVAR annotated output files, we have generated a python script to count the number of each regions in the variants of each trait. It should look like the following,
+To get the number of each region (Intergenic, Intronice, 3'UTR, etc...) like in row F of the ANNOVAR annotated output files, we have generated a python script to count the number of each regions in the variants of each trait. The input files would be the 31 traits located in the VariantsList folder. The input files would look like the picture below, and the python script would list the number of each region in column 7.
+![3'utr](https://user-images.githubusercontent.com/80075365/123525530-60604c80-d69f-11eb-8b5f-f44780ef657c.png)
+
+### **Output**
+The output would look similar to this
 ![3' utr putty](https://user-images.githubusercontent.com/80075365/123525444-a963d100-d69e-11eb-824a-1b99c55df787.png)
 
