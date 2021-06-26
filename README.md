@@ -8,6 +8,12 @@ Our developed pipeline (TACGVar) efficiently annotates large numbers of variants
 # **Publication and Citation**
 Paper still in progress
 # **Usage**
+**Step 0**
+**Step 1: Annovar Annotaion**
+This part of the pipeline is used to create an ANNOVAR formatted output file so that the 3' UTR Prevalenece Script can use it as an input file. 
+The input file we used was a SNP list for easy processing,
+
+but the input file should be in the format of .sumstats.add.txt and looks as follows;
 
 # **Output**
 The ANNOVAR output result is as follows;
