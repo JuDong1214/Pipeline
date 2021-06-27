@@ -5,7 +5,7 @@ Our developed pipeline (TACGVar) efficiently annotates large numbers of variants
 ![pasted image 0](https://user-images.githubusercontent.com/80075365/123517696-76a2e400-d670-11eb-917d-bb1560d1e560.png)
 
 # **Publication and Citation**
-Paper still in progress
+Paper under revision
 
 # **Usage**
 ## **Step 1: Annovar Annotaion**
