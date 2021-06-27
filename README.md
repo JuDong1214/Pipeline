@@ -58,5 +58,6 @@ To get the number of each region (Intergenic, Intronice, 3'UTR, etc...) like in 
 
 ### **Output**
 The output would look similar to this
+
 ![3' utr putty](https://user-images.githubusercontent.com/80075365/123525444-a963d100-d69e-11eb-824a-1b99c55df787.png)
 
