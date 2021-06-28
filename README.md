@@ -61,8 +61,57 @@ The output would look similar to this
 
 ![3' utr putty](https://user-images.githubusercontent.com/80075365/123525444-a963d100-d69e-11eb-824a-1b99c55df787.png)
 
-## **Step 3:**
-## **Step 4:**
+## **Step 3: Common Genes**
+### **Input**
+This common genes python script takes in Genelists for two individual traits files and compares them to find the number of common genes and the gene names. The input files would be the two genelists, each representing a different trait, from the GeneList folder. A shortened version of ONE of the input file will look like the list below. Note that you need two of these input files to compare
+```CCL22
+ESM1
+KCNV1
+MMP19
+RPRD2
+TMTC1
+ZNF263
+CD40
+DAGLA
+FAM171B
+PPP1R1B
+TUSC1
+KCNA7
+GOLGB1
+NEK1
+RAB5B
+THAP6
+```
+### **Output**
+The output would be printed in terminal, and it will include the number of common genes between the two traits in the first line and the names of those genes in the second line:
+```5
+ZNF263 CD40 DAGLA FAM171B PPP1R1B
+```
+
+## **Step 4: Common Variants**
+This common genes python script takes in ANNOVAR formatted csv or excel files with variants info for two individual traits and compares them to find the number of common variants and the variant locations. A shortened version of ONE of the the input file will look like the list below. Note that you need two of these input files to compare, and the inputs must be csv or excel files. 
+```	Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene
+25939	chr1	149931541	149931541	G	A	intronic	OTUD7B
+25940	chr1	149938898	149938898	T	C	intronic	OTUD7B
+25941	chr1	149943784	149943784	T	C	intronic	OTUD7B
+25942	chr1	149955163	149955163	G	A	intronic	OTUD7B
+25943	chr1	149968717	149968717	A	G	intronic	OTUD7B
+25944	chr1	149989434	149989434	T	C	intergenic	OTUD7B;VPS45
+25945	chr1	149991147	149991147	C	T	intergenic	OTUD7B;VPS45
+25946	chr1	149995979	149995979	A	C	intergenic	OTUD7B;VPS45
+25947	chr1	150000165	150000165	A	G	intergenic	OTUD7B;VPS45
+25948	chr1	150001721	150001721	T	G	intergenic	OTUD7B;VPS45
+25949	chr1	150001899	150001899	A	G	intergenic	OTUD7B;VPS45
+25950	chr1	150008790	150008790	T	C	intergenic	OTUD7B;VPS45
+25951	chr1	150019580	150019580	G	A	intergenic	OTUD7B;VPS45
+```
+### **Output**
+The output would be printed in terminal, and it will include the number of common variants between the two traits in the first line and the location of the variants in the following lines:
+```3
+chr1	149931541
+chr1	149938898
+chr1	149968717
+```
 ## **Step 5: Integrated Bash Script**
 We have developed a Bash script to run all the python scripts all together. You are able to put all input files into one directory and this unix code will call all the python codes and run it through the input files.
 
