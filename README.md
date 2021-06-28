@@ -61,3 +61,10 @@ The output would look similar to this
 
 ![3' utr putty](https://user-images.githubusercontent.com/80075365/123525444-a963d100-d69e-11eb-824a-1b99c55df787.png)
 
+## **Step 3:**
+## **Step 4:**
+## **Step 5: Integrated Bash Script**
+We have developed a Bash script to run all the python scripts all together. You are able to put all input files into one directory and this unix code will call all the python codes and run it through the input files.
+
+The output should look like the following:
+[image]
