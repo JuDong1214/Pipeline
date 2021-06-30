@@ -119,4 +119,5 @@ The output should look like the following images:
 
 ![bashputtypic](https://user-images.githubusercontent.com/80075365/123982796-538a7400-d991-11eb-837e-c97d3118f09a.png)
 ![bashputtypic2](https://user-images.githubusercontent.com/80075365/123982996-83d21280-d991-11eb-8bd9-0202a1037bf1.png)
+**Note: The number of common genes and variants will be outputted, but the list of the genes and variants will not be! If the list of common genes and variants is needed, please use the python scripts individially.
 
