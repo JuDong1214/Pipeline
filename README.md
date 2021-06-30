@@ -115,5 +115,7 @@ chr1	149968717
 ## **Step 5: Integrated Bash Script**
 We have developed a Bash script to run all the python scripts all together. You are able to put all input files into one directory and this unix code will call all the python codes and run it through the input files.
 
-The output should look like the following:
-[image]
+The output should look like the following images:
+![3' utr putty](https://user-images.githubusercontent.com/80075365/123982785-51c0b080-d991-11eb-9845-bcea1f462506.png)
+![bashputtypic](https://user-images.githubusercontent.com/80075365/123982796-538a7400-d991-11eb-837e-c97d3118f09a.png)
+
