@@ -117,6 +117,6 @@ We have developed a Bash script to run all the python scripts all together. You 
 
 The output should look like the following images:
 
-![3' utr putty](https://user-images.githubusercontent.com/80075365/123982785-51c0b080-d991-11eb-9845-bcea1f462506.png)
 ![bashputtypic](https://user-images.githubusercontent.com/80075365/123982796-538a7400-d991-11eb-837e-c97d3118f09a.png)
+![bashputtypic2](https://user-images.githubusercontent.com/80075365/123982996-83d21280-d991-11eb-8bd9-0202a1037bf1.png)
 
