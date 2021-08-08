@@ -5,9 +5,9 @@ Our developed pipeline (TACG-Var) efficiently annotates large numbers of variant
 ![pasted image 0](https://user-images.githubusercontent.com/80075365/123517696-76a2e400-d670-11eb-917d-bb1560d1e560.png)
 
 # **Publication and Citation**
-Paper under revision
 
-Song et al., TITLE, In revison at BMC Medical Genomics
+Song et al., Identification of functionally important miRNA targeted genes associated with child obesity trait in genome-wide association studies
+, In revison at BMC Medical Genomics
 
 
 # **Usage**
