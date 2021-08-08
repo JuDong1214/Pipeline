@@ -9,6 +9,14 @@ Our developed pipeline (TACG-Var) efficiently annotates large numbers of variant
 Song et al., Identification of functionally important miRNA targeted genes associated with child obesity trait in genome-wide association studies
 , In revison at BMC Medical Genomics
 
+# **Requirements**
+* python 3.X
+* intertools
+* subprocess
+* shelx
+* glob
+* pandas
+
 
 # **Usage**
 ## **Step 1: Annovar Annotaion**
