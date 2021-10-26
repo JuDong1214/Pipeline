@@ -133,3 +133,5 @@ The output should look like the following images:
 
 **Note: The number of common genes and variants will be outputted, but the list of the genes and variants will not be! If the list of common genes and variants is needed, please use the python scripts individially.**
 
+## **Acknowledgements** 
+The Tool for Annotation and Classification of Genes and Variants (TAGC-Var) recognizes these works:
