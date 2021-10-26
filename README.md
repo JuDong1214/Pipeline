@@ -135,3 +135,5 @@ The output should look like the following images:
 
 ## **Acknowledgements** 
 The Tool for Annotation and Classification of Genes and Variants (TAGC-Var) recognizes these works:
+  * [Pinpointing miRNA and genes enrichment over trait-relevant tissue network in Genome-Wide Association Studies](https://link.springer.com/article/10.1186/s12920-020-00830-w)
+  * [GTEx]
