@@ -134,7 +134,6 @@ The output should look like the following images:
 **Note: The number of common genes and variants will be outputted, but the list of the genes and variants will not be! If the list of common genes and variants is needed, please use the python scripts individially.**
 
 ## **Acknowledgements** 
-The Tool for Annotation and Classification of Genes and Variants (TAGC-Var) recognizes these works:
   * Li B, Dong J, Yu J, Fan Y, Shang L, Zhou X, Bai Y. [Pinpointing miRNA and genes enrichment over trait-relevant tissue network in Genome-Wide Association Studies](https://link.springer.com/article/10.1186/s12920-020-00830-w). BMC Med Genomics. 2020 Dec 28;13(Suppl 11):191. doi: 10.1186/s12920-020-00830-w. PMID: 33371893; PMCID: PMC7771066.
   * Wang K, Li M, Hakonarson H. [ANNOVAR: functional annotation of genetic variants from high-throughput sequencing data](https://pubmed.ncbi.nlm.nih.gov/20601685/). Nucleic Acids Res. 2010 Sep;38(16):e164. doi: 10.1093/nar/gkq603. Epub 2010 Jul 3. PMID: 20601685; PMCID: PMC2938201.
   * The eQTL data are based on The Genotype-Tissue Expression (GTEx) Project supported by the Common Fund of the Office of the Director of the National Institutes of Health, and by NCI, NHGRI, NHLBI, NIDA, NIMH, and NINDS
