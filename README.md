@@ -19,6 +19,7 @@ Song et al., Identification of functionally important miRNA targeted genes assoc
 
 # **Input/Output Files**
 The folder **Input Files** contains the input files we utilized for the 3'UTR Prevalence, Common Genes, and Common Variant Scripts.
+
 The folder **Output Files** contains a compiled output file for all the outputs from the 3'UTR Prevalence, Common Genes, and Common Variant Scripts.
 
 # **Usage**
