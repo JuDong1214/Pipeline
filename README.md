@@ -17,11 +17,13 @@ Song et al., Identification of functionally important miRNA targeted genes assoc
 * glob
 * pandas
 
+# **Input/Output Files**
+The folder **Input Files** contains the input files we utilized for the 3'UTR Prevalence, Common Genes, and Common Variant Scripts.
 
 # **Usage**
 ## **Step 1: Annovar Annotaion**
 ### **Input**
-This part of the pipeline is used to create an ANNOVAR formatted output file so that the 3' UTR Prevalenece Script can use it as an input file. One of the many input files we used was the PBC trait SNP list (for easy processing). A shortened version follows,
+This part of the pipeline is used to create an ANNOVAR formatted output file so that the 3' UTR Prevalence Script can use it as an input file. One of the many input files we used was the PBC trait SNP list (for easy processing). A shortened version follows,
 ```rs1775421
 rs1775420
 rs1818038
